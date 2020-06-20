@@ -7,7 +7,6 @@ import (
 	"io/ioutil"
 )
 
-
 type Hello struct {
 	l *log.Logger
 }

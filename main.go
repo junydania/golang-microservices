@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"fmt"
 	"os"
-	"github.com:junydania/golang-microservices/handlers"
+	"github.com/junydania/golang-microservices/handlers"
 )
 func main() {
 	l := log.New(os.Stdout, "product-api", log.LstdFlags)

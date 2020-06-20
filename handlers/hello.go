@@ -1,10 +1,10 @@
 package handlers
 
 import (
+	"fmt"
 	"net/http"
 	"log"
 	"io/ioutil"
-	"fmt"
 )
 
 
